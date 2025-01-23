@@ -1,0 +1,1 @@
+This repository contains examples of common Perl code errors related to uninitialized variables and using undef values in comparisons.  The `bug.pl` file shows examples that may produce warnings or unexpected behavior. `bugSolution.pl` demonstrates better practices and how to avoid these issues.
